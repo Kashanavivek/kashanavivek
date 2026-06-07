@@ -36,14 +36,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashanavivek&layout=compact&theme=radical&hide_border=true" width="40%" />
-
-</div>
-
----
-
 ## 🎯 My Goals
 
 - [ ] 🌐 Build my first complete website
