@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Vivek!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Student+%26+Aspiring+Developer;Learning+HTML+%2B+CSS+%2B+Python;Building+Cool+Projects;Open+to+Internships!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Student+%26+Learning+HTML+%2B+CSS+%2B+Python;Building+Cool+Projects;Open+to+Internships!" alt="Typing SVG" />
 
 </div>
 
