@@ -36,15 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kashanavivek&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashanavivek&theme=radical&hide_border=true" width="48%" />
-
-</div>
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashanavivek&layout=compact&theme=radical&hide_border=true" width="40%" />
@@ -60,18 +51,6 @@
 - [ ] 📚 Master Data Structures & Algorithms
 - [ ] 💼 Land my first internship
 - [ ] 🤝 Contribute to open source
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-kashanavivek-181717?style=for-the-badge&logo=github)](https://github.com/kashanavivek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashanavivek-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kashanavivek)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:kashanavivek29@gmail.com)
-
-</div>
 
 ---
 
