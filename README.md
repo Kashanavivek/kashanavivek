@@ -53,7 +53,7 @@
 
 ---
 
-## 🎯 My Goals for 2024
+## 🎯 My Goals
 
 - [ ] 🌐 Build my first complete website
 - [ ] 🐍 Complete Python projects
@@ -68,8 +68,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kashanavivek-181717?style=for-the-badge&logo=github)](https://github.com/kashanavivek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kashanavivek)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashanavivek-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kashanavivek)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:kashanavivek29@gmail.com)
 
 </div>
 
